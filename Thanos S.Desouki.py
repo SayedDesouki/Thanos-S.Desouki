@@ -4,7 +4,7 @@ import random as r
 
 #Step 2: changing the directory to universe path
 #note: I've replaced every / with // due to "unicode error" occured with me
-os.chdir('D:\\01 Courses\\00 As Student\\01 CDSP\\04 Lecture 04\\Thanos\\Universe')
+os.chdir('D:\\Universe')
 
 #step 3: listing all elements in the universe inside the list named "lst1"
 lst1 = os.listdir()
